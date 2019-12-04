@@ -26,4 +26,4 @@ Dont share this token with anyone. If someone do end up with your token, its bas
 - [prompt.js](https://www.npmjs.com/package/prompts)
 - [giphy dev](https://developers.giphy.com/dashboard/)
 - [Eve esi client for JS](https://www.npmjs.com/package/eve-esi?activeTab=readme)
-- [https://www.google.com/search?q=eve+online+api+list+of+alliance+members&oq=eve+online+api+list+of+alliance+members&aqs=chrome..69i57j69i64l3.10166j0j7&sourceid=chrome&ie=UTF-8](Google search eve api )
+- [Google search eve api](https://www.google.com/search?q=eve+online+api+list+of+alliance+members&oq=eve+online+api+list+of+alliance+members&aqs=chrome..69i57j69i64l3.10166j0j7&sourceid=chrome&ie=UTF-8)
